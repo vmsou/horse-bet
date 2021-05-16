@@ -1,4 +1,4 @@
 # horse-bet
-Excel-VBA Horse Bet game
+A Horse betting game made with Excel using VBA.
+![example-img](src/example.png)
 
-![example-img](https://github.com/vmsou/horse-bet/blob/master/src/example.png)
